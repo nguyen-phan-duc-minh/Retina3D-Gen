@@ -5,6 +5,9 @@
 This repository presents an end-to-end framework to convert traditional 2D fundus photographs into **3D retinal surface models**, leveraging **depth estimation (MiDaS)**, **NeRF/SfM reconstruction**, and **deep learning classification (CNN, ViT, GNN)**.  
 The project aims to enhance diagnostic accuracy and interpretability for **diabetic retinopathy (DR)** through depth-aware retinal representations.
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 ---
 
 ## 🏗️ Project Overview
